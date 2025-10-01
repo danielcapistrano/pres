@@ -1,0 +1,38 @@
+---
+title: ""
+author: ""
+institute: ""
+title-slide-attributes:
+    data-background-image: img/pres_cover.png
+    data-background-size: contain
+    data-background-position: bottom
+subtitle: ""
+date-format: "MMMM YYYY"
+from: markdown+emoji
+format: 
+  revealjs:
+    menu: false
+    theme: slides.scss
+    incremental: true
+    slide-number: false
+    logo: img/logo_esri.png
+    transition: fade
+    mouse-wheel: false    
+    background-transition: fade
+    controls: true
+    chalkboard: true
+    highlight-style: github
+editor: 
+  markdown: 
+    wrap: sentence
+embed-resources: false
+execute: 
+  include: true
+  eval: true
+  cache: true
+  echo: false
+---
+
+# Intro {.inverted}
+
+## 
